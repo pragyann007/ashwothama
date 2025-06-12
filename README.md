@@ -1,10 +1,6 @@
 
- .d888888           dP                             dP   dP                                    
-d8'    88           88                             88   88                                    
-88aaaaa88a .d8888b. 88d888b. dP  dP  dP .d8888b. d8888P 88d888b. .d8888b. 88d8b.d8b. .d8888b. 
-88     88  Y8ooooo. 88'  `88 88  88  88 88'  `88   88   88'  `88 88'  `88 88'`88'`88 88'  `88 
-88     88        88 88    88 88.88b.88' 88.  .88   88   88    88 88.  .88 88  88  88 88.  .88 
-88     88  `88888P' dP    dP 8888P Y8P  `88888P'   dP   dP    dP `88888P8 dP  dP  dP `88888P8 
+ ![image](https://github.com/user-attachments/assets/24a9506e-5b96-4c8b-b5ce-3298042a57d0)
+
 
 
 <h1 align="center" style="font-weight: bold;">
@@ -79,5 +75,4 @@ Special thanks to the creators of subfinder, httpx, and EyeWitness.
 LICENSE :
 Open-source. Feel free to fork, contribute, or suggest improvements!
 
-<p align="center"> <b>🧠 Happy Hacking! — Team ASHWATHAMA 🔱</b> </p
-
+🧠 Happy Hacking! — Team ASHWATHAMA 🔱
