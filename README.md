@@ -4,7 +4,7 @@
 
 
 <h1 align="center" style="font-weight: bold;">
-  🔱 ASHWATHAMA 🔱
+  🔱 ASHWOTHAMA 🔱
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🚀 Overview
 
-**ASHWATHAMA** is a powerful and automated **information gathering & recon tool** built using Bash. It simplifies bug bounty recon by performing WHOIS lookups, subdomain enumeration, live subdomain detection, and optional screenshotting—all in one go. 🔥
+**ASHWOTHAMA** is a powerful and automated **information gathering & recon tool** built using Bash. It simplifies bug bounty recon by performing WHOIS lookups, subdomain enumeration, live subdomain detection, and optional screenshotting—all in one go. 🔥
 
 ---
 
@@ -55,8 +55,8 @@ cd EyeWitness && sudo ./setup.sh
 
 
 
-chmod +x ashwathama.sh
-./ashwathama.sh
+chmod +x ashwothama.sh
+./ashwothama.sh
 
 results/
 ├── whois_info_<timestamp>.txt
